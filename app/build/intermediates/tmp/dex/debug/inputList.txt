@@ -1,0 +1,4 @@
+C:\Users\tuandang\Desktop\android\training\threadsample1\app\build\intermediates\classes\debug
+C:\Users\tuandang\Desktop\android\training\threadsample1\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-bdb533cee402b82e36174b7e628fa73a48bc5885.jar
+C:\Users\tuandang\Desktop\android\training\threadsample1\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-ef48a4ffb695c4a1c698ee5e42d8079b53ed7cb8.jar
+C:\Users\tuandang\Desktop\android\training\threadsample1\app\build\intermediates\pre-dexed\debug\classes-6aed1a51361437accd13cec6ca3554e0c4c12550.jar

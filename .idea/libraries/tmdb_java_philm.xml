@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="tmdb-java-philm">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/libs/tmdb-java-philm.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

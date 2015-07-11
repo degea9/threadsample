@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="trakt-java-philm">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/libs/trakt-java-philm.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
